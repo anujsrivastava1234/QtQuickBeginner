@@ -1,9 +1,0 @@
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/FristProgram.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/FristProgram_autogen_timestamp_deps.dir
-/home/anuj/OptFiles/QML(Beginner)/build-FristProgram-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/FristProgram_autogen.dir
